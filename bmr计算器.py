@@ -1,6 +1,7 @@
 def main():
 	y_or_n = input('是否退出程序（y/n）？')
 
+
 	while y_or_n != 'y':
 		# 姓名
 		#name = (input("请输入姓名："))
