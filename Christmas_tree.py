@@ -54,7 +54,5 @@ for i in range(200):
 	backward(b)
 time.sleep(60)
 
-
-
-
+#实现一棵圣诞树 嘎嘎
 
