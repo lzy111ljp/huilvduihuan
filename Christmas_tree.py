@@ -1,3 +1,11 @@
+
+"""
+	作者：Owen
+	功能：利用turtle库实现圣诞树的绘制
+	日期：2018.12.24
+	
+"""
+
 from turtle import *
 import random
 import time
